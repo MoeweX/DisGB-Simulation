@@ -4,7 +4,6 @@
 target/
 *.log
 out/
-*.pdf
 !test_preprocessed.csv
 worldcities.csv
 .ipynb_checkpoints/

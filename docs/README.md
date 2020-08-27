@@ -21,11 +21,11 @@ can be loaded. For the current configuration to work, a web server has to be sta
 This can be achieved using the following command, if Python 3 is available.
 
 ```bash
-cd your/clone/of/this/repo/browser_visualization
+cd your/clone/of/this/repo/docs
 python3 -m http.server 8080
 ```
 
-Then navigate to [http://localhost:8080/visualization.html](http://localhost:8080/visualization.html) to see the visualization.
+Then navigate to [http://localhost:8080/index.html](http://localhost:8080/visualization.html) to see the visualization.
 
 ## Notes on Projections
 
