@@ -1,9 +1,9 @@
 # DisGB Simulation
 
 This repository contains the source code for the simulation tool from the DisGB paper, which is currently under review.
-The simulation tool is used to simulate inter-broker message for multiple rendezvous-based distributed pub/sub strategies.
+The simulation tool is used to simulate inter-broker messaging for multiple rendezvous-based distributed pub/sub strategies.
 For a visualization of the broker setup from the paper, visit [https://moewex.github.io/DisGB-Simulation/](https://moewex.github.io/DisGB-Simulation/).
-To better understand how brokers exchange message for each strategy, see [Message Flows](https://github.com/MoeweX/DisGB-Simulation/blob/master/message-flows.pdf).
+To better understand how brokers exchange messages for each strategy, see [Message Flows](https://github.com/MoeweX/DisGB-Simulation/blob/master/message-flows.pdf).
 
 ## How to build manually?
 
