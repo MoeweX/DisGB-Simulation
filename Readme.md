@@ -1,9 +1,25 @@
 # DisGB Simulation
 
-This repository contains the source code for the simulation tool from the DisGB paper, which is currently under review.
+This repository contains the source code for the simulation tool from the DisGB paper (see below).
 The simulation tool is used to simulate inter-broker messaging for multiple rendezvous-based distributed pub/sub strategies.
 For a visualization of the broker setup from the paper, visit [https://moewex.github.io/DisGB-Simulation/](https://moewex.github.io/DisGB-Simulation/).
 To better understand how brokers exchange messages for each strategy, see [Message Flows](https://github.com/MoeweX/DisGB-Simulation/blob/master/message-flows.pdf).
+
+If you use this software in a publication, please cite it as:
+
+### Text
+Jonathan Hasenburg, David Bermbach. **DisGB: Using Geo-Context Information for Efficient Routing in Geo-Distributed Pub/Sub Systems**. In: Proceedings of the 7th IEEE/ACM International Conference on Utility and Cloud Computing 2020 (UCC 2020). IEEE 2020.
+
+### BibTeX
+```
+@inproceedings{hasenburg_disgb:_2020,
+	title = {{DisGB}: Using Geo-Context Information for Efficient Routing in Geo-Distributed Pub/Sub Systems},
+	booktitle = {2020 {IEEE}/{ACM} International Conference on Utility and Cloud Computing},
+	publisher = {{IEEE}},
+	author = {Hasenburg, Jonathan and Bermbach, David},
+	year = {2020}
+}
+```
 
 ## How to build manually?
 
