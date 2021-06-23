@@ -1,6 +1,6 @@
 # Broker Visualization
 
-A visualization of spatial data from the simulation.
+A visualization of spatial data from the simulation. The visualization was implemented by [njapke](https://github.com/njapke).
 
 ## Info
 
